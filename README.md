@@ -1,6 +1,6 @@
-# 💬 NextChat
+# 💬 NexChat
 
-**NextChat** is a community-based chat application designed to connect everyone in real-time. It leverages modern technologies like Django, React, and Web APIs to deliver a fast, scalable, and intuitive messaging platform.
+**NexChat** is a community-based chat application designed to connect everyone in real-time. It leverages modern technologies like Django, React, and Web APIs to deliver a fast, scalable, and intuitive messaging platform.
 
 ---
 
@@ -152,7 +152,7 @@ If you find this project helpful, consider giving it a ⭐ on GitHub and sharing
     </td>
     <td align="center">
       <a href="https://github.com/srreeraj">
-        <img src="https://avatars.githubusercontent.com/u/126603233?v=4" width="70" height="70"><br />
+        <img src="https://avatars.githubusercontent.com/u/126603233?v=4" width="40" height="40"><br />
         <sub><b>Sree Raj</b></sub>
       </a>
     </td>
