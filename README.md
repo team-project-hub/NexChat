@@ -140,10 +140,14 @@ If you find this project helpful, consider giving it a ⭐ on GitHub and sharing
 
 Thanks to all the amazing people who made this project possible 💬
 
-[![Vishnu](https://avatars.githubusercontent.com/u/132294324?s=96&v=4)](https://github.com/VishnuCheruvakkara)
-[![Alice]()](https://github.com/alice-username)
-[![Bob]()](https://github.com/bob-username)
-[![Charlie]()](https://github.com/charlie-username)
+[![Vishnu](https://avatars.githubusercontent.com/u/132294324?v=4)](https://github.com/VishnuCheruvakkara)
+[![Sree Raj](https://avatars.githubusercontent.com/u/126603233?v=4)](https://github.com/srreeraj)
+[![Anju M Venugopal](https://avatars.githubusercontent.com/u/149453966?v=4)](https://github.com/ANJU-M-VENUGOPAL)
+[![Salmath Salam]()](https://github.com/charlie-username)
+[![Anandhu Shibu ](https://avatars.githubusercontent.com/u/170908818?v=4)](https://github.com/orgs/team-project-hub/people/AnandhuShibu)
+[![Asin Harshana ](https://avatars.githubusercontent.com/u/168712590?v=4)](https://github.com/ASIN-HARSHANA)
+[![Anu Raj Anil]()]()
+
 
 
 
