@@ -136,20 +136,58 @@ This project is licensed under the MIT License.
 ## 🙌 Support
 If you find this project helpful, consider giving it a ⭐ on GitHub and sharing it with others!
 
-## 👥 Contributors
-
-Thanks to all the amazing people who made this project possible 💬
-
-[![Vishnu](https://avatars.githubusercontent.com/u/132294324?v=4)](https://github.com/VishnuCheruvakkara)
-[![Sree Raj](https://avatars.githubusercontent.com/u/126603233?v=4)](https://github.com/srreeraj)
-[![Anju M Venugopal](https://avatars.githubusercontent.com/u/149453966?v=4)](https://github.com/ANJU-M-VENUGOPAL)
-[![Salmath Salam]()](https://github.com/charlie-username)
-[![Anandhu Shibu ](https://avatars.githubusercontent.com/u/170908818?v=4)](https://github.com/orgs/team-project-hub/people/AnandhuShibu)
-[![Asin Harshana ](https://avatars.githubusercontent.com/u/168712590?v=4)](https://github.com/ASIN-HARSHANA)
-[![Anu Raj Anil]()]()
 
 
 
+
+### 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VishnuCheruvakkara">
+        <img src="https://avatars.githubusercontent.com/u/132294324?v=4" width="70" height="70"><br />
+        <sub><b>Vishnu</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/srreeraj">
+        <img src="https://avatars.githubusercontent.com/u/126603233?v=4" width="70" height="70"><br />
+        <sub><b>Sree Raj</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ANJU-M-VENUGOPAL">
+        <img src="https://avatars.githubusercontent.com/u/149453966?v=4" width="70" height="70"><br />
+        <sub><b>Anju</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/charlie-username">
+        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="70" height="70"><br />
+        <sub><b>Salmath</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/orgs/team-project-hub/people/AnandhuShibu">
+        <img src="https://avatars.githubusercontent.com/u/170908818?v=4" width="70" height="70"><br />
+        <sub><b>Anandhu</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ASIN-HARSHANA">
+        <img src="https://avatars.githubusercontent.com/u/168712590?v=4" width="70" height="70"><br />
+        <sub><b>Asin</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="70" height="70"><br />
+        <sub><b>Anu</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
