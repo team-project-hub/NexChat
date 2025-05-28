@@ -30,7 +30,7 @@
 ### 1. 🚀 Clone the Repository
 
 ```bash
-git clone https://github.com/team-project-hub/NextChat.git
+git clone https://github.com/team-project-hub/NexChat.git
 cd NextChat
 ```
 
