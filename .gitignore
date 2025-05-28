@@ -1,0 +1,6 @@
+
+# Ignore Virtual Environment (Django)
+
+venv/
+.env
+backend/env/
