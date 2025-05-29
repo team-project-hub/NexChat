@@ -49,8 +49,12 @@ source env/bin/activate
 # Install Python dependencies
 pip install -r requirements.txt
 
+# Generate your one secret key
+python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
+
+# Set up .env (create new one) in the root directory according to the .env.example by adding actual values
+
 # Apply database migrations
-python manage.py makemigrations
 python manage.py migrate
 
 # Create a superuser
