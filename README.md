@@ -78,6 +78,9 @@ cd frontend
 # Install frontend dependencies
 npm install
 
+# Install tailwind css
+npm install -D tailwindcss@3 postcss autoprefixer
+
 # Start the frontend development server
 npm run dev
 
