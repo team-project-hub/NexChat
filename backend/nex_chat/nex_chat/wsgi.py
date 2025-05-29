@@ -1,5 +1,5 @@
 """
-WSGI config for project_hub project.
+WSGI config for nex_chat project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project_hub.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'nex_chat.settings')
 
 application = get_wsgi_application()

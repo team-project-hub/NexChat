@@ -93,7 +93,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'project_hub.urls'
+ROOT_URLCONF = 'nex_chat.urls'
 
 TEMPLATES = [
     {
@@ -110,7 +110,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'project_hub.wsgi.application'
+WSGI_APPLICATION = 'nex_chat.wsgi.application'
 
 
 # Database
